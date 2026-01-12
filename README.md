@@ -1,2 +1,3 @@
 # sensitive-analysis-on-product-reviews-
 Sentiment Analysis is a Natural Language Processing (NLP) technique used to identify and classify the emotions or opinions expressed in textual data. The main objective of this mini project is to analyze text reviews and determine whether the sentiment conveyed is positive, negative, or neutral.
+In this project, user reviews are collected as input and processed using Python. The text data is first cleaned by removing unwanted characters, stop words, and unnecessary symbols. After preprocessing, a sentiment analysis algorithm is applied to classify the reviews based on their emotional tone.
